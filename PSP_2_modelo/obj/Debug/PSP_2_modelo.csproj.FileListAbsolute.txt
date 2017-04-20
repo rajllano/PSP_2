@@ -1,0 +1,5 @@
+C:\Users\Max\Source\Repos\PSP_2\PSP_2_modelo\obj\Debug\PSP_2_modelo.csprojResolveAssemblyReference.cache
+C:\Users\Max\Source\Repos\PSP_2\PSP_2_modelo\bin\Debug\PSP_2_modelo.dll
+C:\Users\Max\Source\Repos\PSP_2\PSP_2_modelo\bin\Debug\PSP_2_modelo.pdb
+C:\Users\Max\Source\Repos\PSP_2\PSP_2_modelo\obj\Debug\PSP_2_modelo.dll
+C:\Users\Max\Source\Repos\PSP_2\PSP_2_modelo\obj\Debug\PSP_2_modelo.pdb
